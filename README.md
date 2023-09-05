@@ -5,8 +5,8 @@
 
 With ultrasonic and force sensors, NDS detects collisions and sends an alert to your phone.
 
-![NDS](nds-1.jpeg)
-![NDS](nds-2.jpeg)
+![NDS](nds-1.jpeg)<br>
+![NDS](nds-2.jpeg)<br>
 ![NDS demo](nds-3.gif)
 
 ## About
