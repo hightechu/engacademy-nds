@@ -14,4 +14,4 @@ With ultrasonic and force sensors, NDS detects collisions and sends an alert to 
 - Created by Leo, Shubham, and Jay in the Summer 2023 HighTechU EngAcademy
 - Winners of the Best Business Award
 
-![NDS team](ndds-team.jpg)
+![NDS team](nds-team.jpg)
